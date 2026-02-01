@@ -8,14 +8,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jbk79/)
 
 <div align="center">
-![](/assets/images/horizontal-divider-gradient.gif)
+!(/assets/images/horizontal-divider-gradient.gif)
 </div>
 
 ## 🎮 GitHub Space Shooter
 ![My GitHub Game](game.gif)
 
 <div align="center">
-![](/assets/images/horizontal-divider-gradient.gif)
+!(/assets/images/horizontal-divider-gradient.gif)
 </div>
 
 ## 💻 Tech Stack
