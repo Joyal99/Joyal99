@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;I'm+Joyal+Biju+Kulangara&font=Fira%20Code&center=true&width=600&height=50&pause=1000&color=0F65F7" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F65F7&width=435&lines=Hi+There!+;I'm+Joyal+Biju+Kulangara" 
     alt="Typing SVG"
   />
 </p>
