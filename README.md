@@ -6,8 +6,6 @@
   />
 </p>
 
-<br/>
-
 🎓 Computer Engineering student in **Montreal, Canada**  
 🚀 Passionate about building tech across software, hardware, and product design  
 🏎️ Formula 1 fan | 🌌 Space enthusiast  
