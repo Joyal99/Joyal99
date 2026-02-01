@@ -41,7 +41,7 @@
 </picture>
 
 ## 🎮 GitHub Space Shooter
-![Space Shooter](https://raw.githubusercontent.com/Joyal99/Joyal99/output/space-shooter.svg)
+![My GitHub Game](game.gif)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
