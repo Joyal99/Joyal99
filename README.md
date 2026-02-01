@@ -1,9 +1,14 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Joyal99.Joyal99&left_text=Visitors"/>
-
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=200AF7&width=435&lines=Hi+There!+;I'm+Joyal+Biju+Kulangara" 
     alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://visitor-badge.laobi.icu/badge?page_id=Joyal99.Joyal99&left_text=Profile%20Views" 
+    alt="Profile Views"
   />
 </p>
 
