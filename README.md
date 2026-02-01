@@ -40,6 +40,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/biolater/biolater/output/github-snake.svg" />
 </picture>
 
+## 🎮 GitHub Space Shooter
+![Space Shooter](https://raw.githubusercontent.com/Joyal99/Joyal99/output/space-shooter.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
