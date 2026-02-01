@@ -1,11 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Joyal99.Joyal99&left_text=Visitors"/>
 
-<a href="https://git.io/typing-svg">
+<p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F65F7&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Joyal+Biju+Kulangara" 
-    alt="Typing SVG" 
+    src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋;I'm+Joyal+Biju+Kulangara;Computer+Engineering+Student+in+Montreal;Full+Stack+%7C+Embedded+%7C+Product+Builder&font=Fira%20Code&center=true&width=700&height=60&duration=3500&pause=1000&color=0F65F7" 
+    alt="Joyal Typing Header"
   />
-</a>
+</p>
 
 <br/>
 
