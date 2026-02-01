@@ -1,20 +1,22 @@
 # Hi there! 👋 I'm Joyal 💛  
 
-![Joyal Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
 🎓 Computer Engineering student in **Montreal, Canada**  
-🚀 Passionate about building tech across **software, hardware, and product design**  
-🏎️ Huge **Formula 1** fan | 🌌 Space & emerging tech enthusiast  
+🚀 Passionate about building tech across software, hardware, and product design  
+🏎️ Formula 1 fan | 🌌 Space enthusiast  
 📫 Reach me at: **jbijukul@gmail.com**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jbk79/)
 
----
+<div align="center">
+![](/assets/images/horizontal-divider-gradient.gif)
+</div>
 
 ## 🎮 GitHub Space Shooter
 ![My GitHub Game](game.gif)
 
----
+<div align="center">
+![](/assets/images/horizontal-divider-gradient.gif)
+</div>
 
 ## 💻 Tech Stack
 
@@ -42,7 +44,9 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge)
 
----
+<div align="center">
+![](/assets/images/horizontal-divider-gradient.gif)
+</div>
 
 ## 📊 GitHub Activity
 
@@ -50,7 +54,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joyal99&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joyal99&theme=dark&layout=compact)
 
----
+<div align="center">
+![](/assets/images/horizontal-divider-gradient.gif)
+</div>
 
 ## 🏆 Achievements
 
