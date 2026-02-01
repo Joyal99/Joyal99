@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Joyal 💛  
 
+![Joyal Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 🎓 Computer Engineering student in **Montreal, Canada**  
 🚀 Passionate about building tech across **software, hardware, and product design**  
 🏎️ Huge **Formula 1** fan | 🌌 Space & emerging tech enthusiast  
@@ -9,7 +11,7 @@
 
 ---
 
-## 🎮 GitHub Space Shooter (auto-generated from my commits)
+## 🎮 GitHub Space Shooter
 ![My GitHub Game](game.gif)
 
 ---
