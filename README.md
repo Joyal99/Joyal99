@@ -8,25 +8,22 @@
 
 <h2 align="center">🔬 Visualizing My Stack 🔬</h2>
 
-```
-=============================
-🎓 Computer Engineering Student **Montreal, Canada**  
+=============================  
+🎓 Computer Engineering Student — **Montreal, Canada**  
 🚀 Passionate about building tech across software, hardware, and product design  
 🏎️ Formula 1 fan | 🌌 Space enthusiast  
-📫 Reach me at: **jbijukul@gmail.com**
-=============================
+📫 Reach me at: **jbijukul@gmail.com**  
+=============================  
 
-🧠 LANGUAGES: Python • Java • C++ • Go • JavaScript • TypeScript • VHDL  
-🌐 FRONTEND: React • Next.js • Tailwind • Bootstrap • Flutter  
-⚙️ BACKEND: FastAPI • Node.js • Express • Firebase  
-🗄️ DATABASES: PostgreSQL • MongoDB • SQLite • Firebase RTDB  
-🧪 SYSTEMS & OS: Multithreading • TCP Servers • Memory Management  
-📦 DEVOPS: Docker • GitHub Actions • Linux  
-🔌 EMBEDDED: ESP32 • Arduino • Sensors  
-🎨 PRODUCT & DESIGN: Figma • Agile • Scrum • Jira  
+🧠 **LANGUAGES:** Python • Java • C++ • Go • JavaScript • TypeScript • VHDL  
+🌐 **FRONTEND:** React • Next.js • Tailwind • Bootstrap • Flutter  
+⚙️ **BACKEND:** FastAPI • Node.js • Express • Firebase  
+🗄️ **DATABASES:** PostgreSQL • MongoDB • SQLite • Firebase RTDB  
+🧪 **SYSTEMS & OS:** Multithreading • TCP Servers • Memory Management  
+📦 **DEVOPS:** Docker • GitHub Actions • Linux  
+🔌 **EMBEDDED:** ESP32 • Arduino • Sensors  
+🎨 **PRODUCT & DESIGN:** Figma • Agile • Scrum • Jira  
 
-=============================
-```
 
 <p align="center">
   <a href="https://linkedin.com/in/jbk79/">
