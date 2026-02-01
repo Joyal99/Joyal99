@@ -1,19 +1,13 @@
-<img 
-  align="right" 
-  src="https://visitor-badge.laobi.icu/badge?page_id=Joyal99.Joyal99&left_text=Visitors" 
-/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Joyal99.Joyal99&left_text=Visitors"/>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=0F65F7&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Joyal+Biju+Kulangara;Computer+Engineering+Student+🚀" 
-      alt="Typing SVG" 
-    />
-  </a>
-</h1>
+<a href="https://git.io/typing-svg">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F65F7&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Joyal+Biju+Kulangara" 
+    alt="Typing SVG" 
+  />
+</a>
 
 <br/>
-
 
 🎓 Computer Engineering student in **Montreal, Canada**  
 🚀 Passionate about building tech across software, hardware, and product design  
