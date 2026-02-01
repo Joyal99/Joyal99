@@ -13,11 +13,37 @@
 </p>
 
 
+<h2 align="center">🔬 Visualizing My Stack 🔬</h2>
 
-🎓 Computer Engineering student in **Montreal, Canada**  
+```
+=============================
+🎓 Computer Engineering Student **Montreal, Canada**  
 🚀 Passionate about building tech across software, hardware, and product design  
 🏎️ Formula 1 fan | 🌌 Space enthusiast  
 📫 Reach me at: **jbijukul@gmail.com**
+=============================
+
+🧠 LANGUAGES: Python • Java • C++ • Go • JavaScript • TypeScript • VHDL  
+🌐 FRONTEND: React • Next.js • Tailwind • Bootstrap • Flutter  
+⚙️ BACKEND: FastAPI • Node.js • Express • Firebase  
+🗄️ DATABASES: PostgreSQL • MongoDB • SQLite • Firebase RTDB  
+🧪 SYSTEMS & OS: Multithreading • TCP Servers • Memory Management  
+📦 DEVOPS: Docker • GitHub Actions • Linux  
+🔌 EMBEDDED: ESP32 • Arduino • Sensors  
+🎨 PRODUCT & DESIGN: Figma • Agile • Scrum • Jira  
+
+=============================
+```
+
+<p align="center">
+  <a href="https://linkedin.com/in/jbk79/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Joyal99.Joyal99&left_text=Profile%20Views" />
+</p>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jbk79/)
 
@@ -41,30 +67,6 @@
 <br/>
 <hr />
 
-
-### 🧠 Programming
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![VHDL](https://img.shields.io/badge/VHDL-%2300599C.svg?style=for-the-badge)
-![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🛠 Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge)
 
 <div align="center">
 ![](/assets/images/horizontal-divider-gradient.gif)
