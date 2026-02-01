@@ -1,12 +1,5 @@
 <p align="center">
   <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=Joyal99.Joyal99&left_text=Profile%20Views" 
-    alt="Profile Views"
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=200AF7&width=435&lines=Hi+There!+;I'm+Joyal+Biju+Kulangara" 
     alt="Typing SVG"
   />
@@ -44,8 +37,6 @@
 </p>
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jbk79/)
 
 <p align="center">
   <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
