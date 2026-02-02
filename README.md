@@ -72,25 +72,24 @@
 </p>
 
 
-<h2 align="center">🪔 Highlighted Stack 🪔</h2>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,java,go,cpp,flutter,nodejs,express,fastapi" />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,sqlite,docker,git,github,linux,arduino,raspberrypi,figma" />
-</div>
-<br/>
-<hr />
-
-
 <p align="center">
   <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
 </p>
 
-## 📊 GitHub Activity
+<h2 align="center">📊 GitHub Activity 📊</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=joyal99&theme=dark&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=joyal99&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joyal99&theme=dark&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joyal99&theme=dark&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyal99&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyal99&theme=dark&layout=compact" />
+</p>
+
 
 <p align="center">
   <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
@@ -100,11 +99,16 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=joyal99&theme=radical&no-bg=true&margin-w=6)
 
----
+<p align="center">
+  <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
+</p>
 
-### ✨ Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">✨ Dev Quote of the Day ✨</h3>
 
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=joyal99&icon=7&color=13)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
+</p>
