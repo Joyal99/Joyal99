@@ -20,7 +20,6 @@
   📬 Reach me at: <b>jbijukul@gmail.com</b>
 </p>
 
-
 <p align="center">
   <a href="https://linkedin.com/in/jbk79/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
@@ -76,10 +75,6 @@
   <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
 </p>
 
-
-<p align="center">
-  <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
-</p>
 
 <div align="center">
 
