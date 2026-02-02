@@ -79,17 +79,16 @@
 <h2 align="center">📊 GitHub Activity 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joyal99&theme=dark&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joyal99&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyal99&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=joyal99&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyal99&theme=dark&layout=compact" />
 </p>
-
 
 <p align="center">
   <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
