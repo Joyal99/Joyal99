@@ -76,20 +76,21 @@
   <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
 </p>
 
-<h2 align="center">📊 GitHub Activity 📊</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=Joyal99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Joyal99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyal99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 <p align="center">
-  <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joyal99&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
-<h3 align="center">✨ Dev Quote of the Day ✨</h3>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Joyal99&theme=dark&hide_border=false" />
+</p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joyal99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
