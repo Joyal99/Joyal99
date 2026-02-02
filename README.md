@@ -76,12 +76,17 @@
   <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
 </p>
 
-| |
-|:--:|
-| ![](https://github-readme-stats.vercel.app/api?username=Joyal99&theme=dark&hide_border=false&include_all_commits=false&count_private=false) |
-| ![](https://nirzak-streak-stats.vercel.app/?user=Joyal99&theme=dark&hide_border=false) |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyal99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
-| ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) |
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Joyal99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Joyal99&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyal99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 
 <p align="center">
