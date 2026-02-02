@@ -32,29 +32,40 @@
   <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
 </p>
 
-🧠 **Core Languages**  
-Python • Java • C++ • Go • JavaScript • TypeScript • VHDL  
+<h2 align="center">🔥 Highlighted Stack 🔥</h2>
+<br/>
 
-🌐 **Frontend**  
-React • Next.js • Tailwind • Bootstrap • Flutter  
+<div align="center">
+  <!-- Core & Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,bootstrap,flutter,html,css" />
+</div>
 
-⚙️ **Backend**  
-FastAPI • Node.js • Express • Firebase  
+<div align="center">
+  <!-- Backend & APIs -->
+  <img src="https://skillicons.dev/icons?i=python,java,go,nodejs,express,fastapi,firebase" />
+</div>
 
-🗄️ **Databases**  
-PostgreSQL • MongoDB • SQLite • Firebase RTDB  
+<div align="center">
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
+</div>
 
-🧪 **Systems & OS**  
-Multithreading • TCP Servers • Memory Management  
+<div align="center">
+  <!-- Systems & DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions" />
+</div>
 
-📦 **DevOps**  
-Docker • GitHub Actions • Linux  
+<div align="center">
+  <!-- Embedded & Hardware -->
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</div>
 
-🔌 **Embedded Systems**  
-ESP32 • Arduino • Sensors  
+<div align="center">
+  <!-- Product & Design -->
+  <img src="https://skillicons.dev/icons?i=figma,jira" />
+</div>
 
-🎨 **Product & Collaboration**  
-Figma • Agile • Scrum • Jira  
+<br/>
 
 <p align="center">
   <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
