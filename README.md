@@ -13,16 +13,13 @@
   />
 </p>
 
-<p align="center">
-  <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
-</p>
-
-<p align="center">
-  🎓 <b>Computer Engineering Student</b> @ <b>Montreal, Canada</b> <br/>
-  ⚙️ Building across <b>software • hardware • product design</b> <br/>
-  🏎️ Formula 1 fan | 🌌 Space enthusiast <br/>
+<p align="center" style="font-size:18px; line-height:1.6;">
+  🎓 <b>Computer Engineering Student</b> @ <b>Montreal, Canada</b><br/>
+  ⚙️ Building across <b>software • hardware • product design</b><br/>
+  🏎️ Formula 1 fan | 🌌 Space enthusiast<br/>
   📬 Reach me at: <b>jbijukul@gmail.com</b>
 </p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/jbk79/">
