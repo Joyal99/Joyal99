@@ -5,13 +5,18 @@
   />
 </p>
 
+<p align="center">
+  🎓 <b>Computer Engineering Student</b> @ <b>Montreal, Canada</b> <br/>
+  ⚙️ Building across <b>software • hardware • product design</b> <br/>
+  🏎️ Formula 1 fan | 🌌 Space enthusiast <br/>
+  📬 Reach me at: <b>jbijukul@gmail.com</b>
+</p>
 
-<h2 align="center">🔬 Visualizing My Stack 🔬</h2>
+<p align="center">
+  <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
+</p>
 
-🎓 **Computer Engineering Student — Montreal, Canada**  
-🚀 Passionate about building tech across software, hardware, and product design  
-🏎️ Formula 1 fan | 🌌 Space enthusiast  
-📫 Reach me at: **jbijukul@gmail.com**
+![My GitHub Game](game.gif)
 
 <p align="center">
   <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
@@ -60,12 +65,6 @@ Figma • Agile • Scrum • Jira
   <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
 </p>
 
-## 🎮 GitHub Space Shooter
-![My GitHub Game](game.gif)
-
-<p align="center">
-  <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
-</p>
 
 <h2 align="center">🪔 Highlighted Stack 🪔</h2>
 <br/>
@@ -77,9 +76,9 @@ Figma • Agile • Scrum • Jira
 <hr />
 
 
-<div align="center">
-![](/assets/images/horizontal-divider-gradient.gif)
-</div>
+<p align="center">
+  <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
+</p>
 
 ## 📊 GitHub Activity
 
@@ -87,9 +86,9 @@ Figma • Agile • Scrum • Jira
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joyal99&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joyal99&theme=dark&layout=compact)
 
-<div align="center">
-![](/assets/images/horizontal-divider-gradient.gif)
-</div>
+<p align="center">
+  <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
+</p>
 
 ## 🏆 Achievements
 
