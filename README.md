@@ -90,6 +90,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyal99&theme=dark&layout=compact" />
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyal99&show_icons=true&locale=en" alt="joyal99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyal99&" alt="joyal99" /></p>
+
+
 <p align="center">
   <img src="assets/images/horizontal-divider-gradient.gif" alt="divider" />
 </p>
